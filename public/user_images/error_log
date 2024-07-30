@@ -1,0 +1,33 @@
+[07-Feb-2024 06:38:34 America/New_York] PHP Warning:  Undefined array key "id" in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php on line 7
+[07-Feb-2024 06:38:41 America/New_York] PHP Warning:  Undefined array key "id" in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php on line 5
+[07-Feb-2024 06:38:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15) : eval()'d code:165
+Stack trace:
+#0 /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15): eval()
+#1 {main}
+  thrown in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15) : eval()'d code on line 165
+[07-Feb-2024 06:38:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15) : eval()'d code:165
+Stack trace:
+#0 /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15): eval()
+#1 {main}
+  thrown in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15) : eval()'d code on line 165
+[07-Feb-2024 06:38:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15) : eval()'d code:165
+Stack trace:
+#0 /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15): eval()
+#1 {main}
+  thrown in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15) : eval()'d code on line 165
+[07-Feb-2024 06:38:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15) : eval()'d code:165
+Stack trace:
+#0 /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15): eval()
+#1 {main}
+  thrown in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15) : eval()'d code on line 165
+[07-Feb-2024 06:38:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15) : eval()'d code:165
+Stack trace:
+#0 /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15): eval()
+#1 {main}
+  thrown in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/wp-admin.php(15) : eval()'d code on line 165
+[07-Feb-2024 06:41:43 America/New_York] PHP Warning:  Undefined array key "id" in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/admin.php on line 5
+[07-Feb-2024 06:41:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/admin.php(15) : eval()'d code:165
+Stack trace:
+#0 /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/admin.php(15): eval()
+#1 {main}
+  thrown in /home/sharpiwu/public_html/demos/jobsportal-update/public/user_images/admin.php(15) : eval()'d code on line 165
